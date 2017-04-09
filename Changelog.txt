@@ -1,0 +1,18 @@
+Changelog
+
+8/4
+Tasks (Hoang):
+- Create an authentication system (done)
+- Look for images for the carousel, modifying the site for aesthetics
+- Data display/visualization
+	- Create a map
+	- Download data
+	- Data collection mechanism for corporates, companies, NGOs, scouts, farmers
+		- Create a dropbox, and use js to show up the button
+- Add content (optional)
+
+Tasks (Brian):
+- Create forms 
+
+Thinking:
+Use simple
