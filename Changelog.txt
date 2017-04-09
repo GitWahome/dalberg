@@ -1,0 +1,6 @@
+Changelog
+
+8/4
+Tasks (Hoang):
+- Create an authentication system
+- Look into JSON parser
