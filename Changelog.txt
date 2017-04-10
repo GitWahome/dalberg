@@ -16,3 +16,11 @@ Tasks (Brian):
 
 Thinking:
 Use simple
+
+9/4
+Changes:
+- Updating image assets
+- Add login/signup navbar
+
+Problems:
+- Pages are not inheritable
